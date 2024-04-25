@@ -1,0 +1,13 @@
+Deploy app
+1. Build our Project Debug or release mode
+2. Its create build folder.
+3. Goto build than debug folder.
+4. Application(.exe) file generate.
+5. Copy All File paste in one folder
+6. When you run Application (.exe) file its not run
+   some .dll file required so copy those file in that folder
+   than run our Application.
+
+Note: .dll file copy from Qt application install folder according to 32bit or 64bit. 
+	path: C:\Qt\5.12.12\mingw73_64\bin or C:\Qt\5.12.12\mingw73_32\bin
+ 
